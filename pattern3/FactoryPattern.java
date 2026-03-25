@@ -1,7 +1,7 @@
 package pattern3;
 
 interface Burger{
-    void prepare();
+    void prepare();   
 }
 class NormalBurger implements Burger{
     public void prepare(){
